@@ -33,12 +33,13 @@ Install from the repository or:
 
 == Screenshots ==
 
-1. New 'Edit' Menu with an list of direct edit link to posts from current page.
+1. New 'Edit' Menu with an direct edit link from current single page/post.
+2. New 'Edit' Menu with the list of posts or pages from current view.
 
 == Changelog ==
 
 = 3.0 =
-Integrate DashBar features in WordPress Admin Bar 
+Integrate DashBar features in WordPress Admin Bar (at least)
 
 = 2.7.2 =
 Added Belorussian and Japanese translation
